@@ -1,0 +1,7 @@
+Django
+djangorestframework
+channels
+daphne
+psycopg2-binary
+confluent-kafka
+channels-redis
